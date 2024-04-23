@@ -1,5 +1,4 @@
 # learn-git
-
 * This is a commit from main branch
 * This is a commit from feature-1 branch
 
@@ -23,3 +22,4 @@
 
 ### developer-2
 * I am developer-2, adding more feature
+* I am developer-2 it is completed
